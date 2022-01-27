@@ -1,0 +1,10 @@
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\bin\Debug\Number_3.exe.config
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\bin\Debug\Number_3.exe
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\bin\Debug\Number_3.pdb
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.Properties.Resources.resources
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.exe
+C:\Users\Igor\Desktop\ІЗВП\Практичне завдання 3_1\Number_3\Number_3\obj\Debug\Number_3.pdb
